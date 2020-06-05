@@ -1,0 +1,80 @@
+﻿.navbar{
+background-color : #2f4959 !important;
+}
+.nav-link{
+color : white !important;
+font-weight: bold !important;
+}
+.btn{
+background-color : #2f4959 !important;
+color : white !important;
+font-weight: bold !important;
+}
+.carousel{
+width : 90% !important;
+}
+#cat{
+color : white;
+background-color : #333333;
+font-weight : bold;
+padding-left : 7px;
+}
+h2{
+color : #2f4959;
+text-align : center;
+margin : 20px;
+padding : 5px;
+font-weight:bold;
+}
+.card{
+width : 250px !important;
+height : auto !important;
+margin-bottom : 5px;
+}
+.footer{
+width : 100%;
+background-color : #2f4959;
+height : 50px;
+}
+.footer > div {
+text-align : center;
+}
+h4 {
+color : white;
+padding : 5px;
+}
+.news{
+background-color: #2f4959;
+margin-left: 50px;
+margin-right: 50px;
+margin-bottom : 10px;
+}
+marquee{
+color: white;
+behavior: scroll;
+direction:left;
+scrollamount:15;
+}
+.dropdown-menu{
+background-color : #2f4959 !important;
+}
+.dropdown-menu a{
+color : white !important;
+}
+.dropdown-menu a:hover{
+background-color : #333333 !important;
+}
+.back{
+background-color : #2f4959;
+}
+.para{
+text-align: justify;
+visibility: visible;
+margin-right: 250px;
+margin-left: 250px;
+color: white;
+font-size: 15px;
+font-family: 'Open Sans', sans-serif;
+line-height: 1.9;
+font-size : 20px;
+}
